@@ -1,0 +1,9 @@
+These notes might include information on key terms, permissions for teams and organizations, or syncing from your computer and the app to github. 
+Important things about github:
+* Create a repository from your profile
+* Create and merge branches
+* Markdown: *Bold* **Italic**
+* Commit: describe changes
+* cloning / fork
+      * forking creates the same thing, but you can edit
+* desktop app is based on files
