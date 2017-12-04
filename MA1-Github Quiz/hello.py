@@ -1,2 +1,4 @@
 import sys
-print("Hello, "+sys.argv[1]+"!")
+print('What is your name?')
+username = (input('Name: '))
+print("Hello, ",username,"!")
